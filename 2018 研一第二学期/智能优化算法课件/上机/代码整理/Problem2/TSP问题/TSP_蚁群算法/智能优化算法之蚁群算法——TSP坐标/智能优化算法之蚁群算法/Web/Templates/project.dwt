@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+body {
+	background-color: #FFFFFF;
+}
+.STYLE2 {color: #FFFFFF}
+body,td,th {
+	font-size: 12px;
+}
+.STYLE5 {color: #FFFFFF; font-weight: bold; }
+.STYLE8 {font-size: 24px}
+.STYLE9 {font-size: 18px}
+-->
+</style>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="799" height="95" border="0" align="center" background="../Images/banner.jpg">
+  <tr>
+    <th width="799" height="52" valign="top" scope="col">&nbsp;</th>
+  </tr>
+  <tr valign="top">
+    <th width="795" height="33" scope="col"><p class="STYLE2"><a href="../background.html">应用背景</a> │ <a href="../program.html">具体程序</a> │ <a href="../writer.html">作者分工</a> </p>    </th>
+  </tr>
+</table>
+<table width="801" height="880" border="0" align="center" bgcolor="#FFFFFF">
+  <tr>
+    <td width="567" rowspan="2" valign="top"><table width="562" height="852" border="1" align="left" bordercolor="#FFFFFF">
+        <tr bordercolor="#CCCCCC">
+          <td width="552" valign="top"><p class="STYLE9">class project<br />
+            {<br />
+            public:</p>
+            <p class="STYLE9"> void UpdateTrial();<br />
+              double path_Length;<br />
+              void initmap();<br />
+              ant ants[ant_num];<br />
+              void GetAnt();<br />
+              void StartSearch();<br />
+              project();<br />
+              };</p></td>
+        </tr>
+    </table></td>
+    <td width="224" height="53" valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF"><table width="224" height="41" border="0" align="center">
+        <tr>
+          <td width="218" height="37" bgcolor="#FFFFFF"><table width="216" height="38" border="0" bgcolor="#FFFFFF">
+            <tr>
+              <td width="210" height="27" background="../Images/nav01.jpg"><table width="169" border="0" align="center">
+                <tr>
+                  <td width="163"><span class="STYLE5">类(Class)</span></td>
+                </tr>
+              </table></td>
+            </tr>
+          </table>
+            <table width="216" height="38" border="0" bgcolor="#FFFFFF">
+                      </table>
+            <table width="212" border="0">
+              <tr>
+                <td width="206"><table width="200" border="0" align="center">
+                  <tr>
+                    <td align="left"><span class="STYLE8"><a href="../information.html">information</a></span></td>
+                  </tr>
+                  <tr>
+                    <td><span class="STYLE8"><a href="../ant.html">ant</a></span></td>
+                  </tr>
+                  <tr>
+                    <td><span class="STYLE8"><a href="../project.html">project</a></span></td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table>
+            <table width="214" height="26" border="0">
+              <tr>
+                <td width="208"><img src="../Images/nav02.jpg" width="212" height="20" /></td>
+              </tr>
+            </table>            </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="224" height="770" bordercolor="#CCCCCC" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+</html>

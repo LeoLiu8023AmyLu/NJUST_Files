@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: GA_Leo - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Leo.Liu\AppData\Local\Temp\RSPF754.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/GA_Leo.pdb" /debug /machine:I386 /out:"Debug/GA_Leo.exe" /pdbtype:sept 
+".\Debug\GA_Leo.obj"
+]
+Creating command line "link.exe @C:\Users\Leo.Liu\AppData\Local\Temp\RSPF754.tmp"
+<h3>Output Window</h3>
+Linking...
+LINK : LNK6004: Debug/GA_Leo.exe not found or not built by the last incremental link; performing full link
+
+
+
+<h3>Results</h3>
+GA_Leo.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

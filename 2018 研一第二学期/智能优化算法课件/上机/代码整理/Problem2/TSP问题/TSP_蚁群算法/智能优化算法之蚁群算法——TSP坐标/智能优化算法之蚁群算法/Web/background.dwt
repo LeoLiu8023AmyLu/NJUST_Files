@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+body {
+	background-color: #FFFFFF;
+	background-image: url(Images/ww.jpg);
+}
+.STYLE2 {color: #FFFFFF}
+body,td,th {
+	font-size: 12px;
+}
+.STYLE5 {color: #FFFFFF; font-weight: bold; }
+.STYLE8 {font-size: 24px}
+-->
+</style>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="799" height="95" border="0" align="center" background="Images/banner.jpg">
+  <tr>
+    <th width="799" height="52" valign="top" scope="col">&nbsp;</th>
+  </tr>
+  <tr valign="top">
+    <th width="795" height="33" scope="col"><p class="STYLE2">应用背景 │ <a href="program.html">具体程序</a> │ <a href="writer">作者分工</a> </p>    </th>
+  </tr>
+</table>
+<table width="788" height="880" border="0" align="center" bgcolor="#FFFFFF">
+  <tr>
+    <td width="782" height="823" valign="top"><table width="759" height="852" border="1" align="left" bordercolor="#FFFFFF">
+        <tr bordercolor="#CCCCCC">
+          <td width="749" valign="top" bordercolor="#CCCCCC"><p class="STYLE8"> 现代优化算法是20世纪80年代初以来得到深入研究和广泛应用的启发式算法，如模拟退火算法、遗传算法、蚁群优化算法、人工神经网络算法等，它们基于客观世界的一些自然现象，通过与组合最优化求解进行类比，找出它们的一些共性，建立相应的算法，以期求解NP难问题的全局最优解 <br />
+              1992年Marco Dorigo在其博士论文中首次提出一种全新的蚁群系统启发式算法，其灵感来源于蚂蚁在寻找食物过程中发现路径的行为，在此基础上这种很好的优化算法逐渐发展成熟起来。 <br />
+              蚁群优化算法（ant colony optimization algorithms）是一种分布式智能模拟算法，其基本思想是模仿蚂蚁依赖信息素进行通信而显示出来的社会行为，它是一种随机的通用试探法，可用于求解各种不同的组合优化问题，具有通用性和鲁棒性，是基于总体优化的方法。 <br />
+              蚁群算法需考虑以下规则：蚂蚁观察到的范围、蚂蚁所在的环境、觅食规则、移动规则避障规则以及播撒信息素规则等。依据这几条规则，蚂蚁之间并没有直接的关系，但是每只蚂蚁都和环境发生交互，而通过信息素这个纽带，实际上把各个蚂蚁之间关联起来了。 <br />
+              在没有蚂蚁找到食物的时候，环境并没有有用的信息素，但是蚂蚁会尽量保持某种惯性，尽量向前方移动，同时也有一定的随机性，虽然有了固定的方向，但它也不能像粒子一样直线运动下去，而是有一个随机的干扰。这样就使得蚂蚁运动起来具有了一定的目的性，尽量保持原来的方向，但又有新的试探，尤其当碰到障碍物的时候它会立即改变方向，这可以看成一种选择的过程，也就是环境的障碍物让蚂蚁的某个方向正确，而其他方向则不对。 当然，在有一只蚂蚁找到了食物的时候，其他蚂蚁会沿着信息素很快找到食物的。 <br />
+          蚂蚁能找到最短路径主要是由于信息素，信息素多的地方显然经过这里的蚂蚁会多，因而会有更多的蚂蚁聚集过来。假设有两条路从窝通向食物，开始的时候，走这两条路的蚂蚁数量同样多。当蚂蚁沿着一条路到达终点以后会马上返回来，这样，短的路蚂蚁来回一次的时间就短，这也意味着重复的频率就快，因而在单位时间里走过的蚂蚁数目就多，洒下的信息素自然也会多，自然会有更多的蚂蚁被吸引过来，从而洒下更多的信息素；而长的路正相反，因此，越来越多地蚂蚁聚集到较短的路径上来，最短的路径就近似找到了。也许有人会问局部最短路径和全局最短路的问题，实际上蚂蚁逐渐接近全局最短路的，为什么呢？这源于蚂蚁会犯错误，也就是它会按照一定的概率不往信息素高的地方走而另辟蹊径，这可以理解为一种创新，这种创新如果能缩短路途，那么根据刚才叙述的原理，更多的蚂蚁会被吸引过来。 </p>
+          </td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+</html>

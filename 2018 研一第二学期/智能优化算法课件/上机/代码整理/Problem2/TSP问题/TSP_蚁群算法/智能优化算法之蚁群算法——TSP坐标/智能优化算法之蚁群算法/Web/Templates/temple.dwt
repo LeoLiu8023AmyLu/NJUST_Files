@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+body {
+	background-color: #FFFFFF;
+}
+.STYLE2 {color: #FFFFFF}
+body,td,th {
+	font-size: 12px;
+}
+.STYLE5 {color: #FFFFFF; font-weight: bold; }
+.STYLE8 {font-size: 24px}
+-->
+</style>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="799" height="95" border="0" align="center" background="../Images/banner.jpg">
+  <tr>
+    <th width="799" height="52" valign="top" scope="col">&nbsp;</th>
+  </tr>
+  <tr valign="top">
+    <th width="795" height="33" scope="col"><p class="STYLE2"><a href="../background.html">应用背景</a> │ <a href="../program.html">具体程序</a> │ <a href="../writer.html">作者分工</a> </p>    </th>
+  </tr>
+</table>
+<table width="666" height="880" border="0" align="center" bgcolor="#FFFFFF">
+  <tr>
+    <td width="660" height="823" valign="top"><table width="660" height="852" border="1" align="left" bordercolor="#FFFFFF">
+        <tr bordercolor="#CCCCCC">
+          <td width="650" valign="top" background="../Images/2006981458441652.jpg"><img src="../Images/20060605213618420.jpg" width="659" height="435" /></td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+</html>
